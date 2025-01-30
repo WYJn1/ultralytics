@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>130119h.jpg</filename>
+	<path>E:\yolov5-tf2-main\VOCdevkit\VOC2007\JPEGImages/130119h.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4288</width>
+		<height>2848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1904</xmin>
+			<ymin>274</ymin>
+			<xmax>2615</xmax>
+			<ymax>2845</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>160082_(2)d.JPG</filename>
+	<path>E:\yolov5-tf2-main\VOCdevkit\VOC2007\JPEGImages/160082_(2)d.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4512</width>
+		<height>3008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1774</xmin>
+			<ymin>1</ymin>
+			<xmax>2793</xmax>
+			<ymax>3008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flashover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2411</xmin>
+			<ymin>1269</ymin>
+			<xmax>2692</xmax>
+			<ymax>1453</ymax>
+		</bndbox>
+	</object>
+</annotation>

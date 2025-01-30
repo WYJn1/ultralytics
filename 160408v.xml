@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>160408v.JPG</filename>
+	<path>E:\yolov5-tf2-main\VOCdevkit\VOC2007\JPEGImages/160408v.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4512</width>
+		<height>3008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1356</xmin>
+			<ymin>1</ymin>
+			<xmax>3044</xmax>
+			<ymax>3007</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2196</xmin>
+			<ymin>732</ymin>
+			<xmax>2533</xmax>
+			<ymax>1088</ymax>
+		</bndbox>
+	</object>
+</annotation>
